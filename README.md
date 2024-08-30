@@ -1,4 +1,6 @@
 # OpenDateInterval
+[![Test](https://github.com/MrAsterisco/OpenDateInterval/actions/workflows/test.yml/badge.svg)](https://github.com/MrAsterisco/OpenDateInterval/actions/workflows/test.yml)
+
 OpenDateInterval is an extended implementation of the `DateInterval` class that represents a potentially open ended interval of dates.
 
 ## Installation
