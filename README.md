@@ -65,4 +65,4 @@ If you make changes to the codebase, I am not enforcing a coding style, but I ma
 This library is under **active development**. Even if most of the APIs are pretty straightforward, **they may change in the future**; but you don't have to worry about that, because releases will follow [Semantic Versioning 2.0.0](https://semver.org/).
 
 ## License
-DateRangePicker is distributed under the MIT license. [See LICENSE](https://github.com/MrAsterisco/OpenDatePicker/blob/main/LICENSE) for details.
+DateRangePicker is distributed under the MIT license. [See LICENSE](https://github.com/MrAsterisco/OpenDateInterval/blob/main/LICENSE) for details.
